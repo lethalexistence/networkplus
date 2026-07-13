@@ -1,5 +1,7 @@
-study session 1
+study session 1 starts here
 start time 1653
+start page 1
+
 OSI is an acronym that stands for "Open Systems Interconnection". it consists of seven layers. Different models such as the OSI model are used to simplify the networking process understanding. models in terminology are used to describe ways to represent a real thing, but with less detail to prevent confusion. the international organization for standardization made the seven-layer OSI model, and ISO comes from the greek word "isos" which means equal.
 protocols are defined laws and rules for hardware and software which enable proper intercomms.
 the OSI model seven layers consist of:
@@ -22,5 +24,7 @@ after sending a frame via the ethernet cable (example) the cable transmits the f
 if a NIC doesnt know the receiver's mac address, it broadcasts a message on the network for every device to send their mac address in order to learn the needed receiver mac address for frame transmission. however this is also done by picking up an IP address from the network to select a target from the crowd.
 since the data link layer works with mac addresses, a correction would be to put the "central box" (now defined as either hubs or switches) on to layer 2, because it works with mac addresses. cabling is regarded as layer 1 (physical). NICs are considered to be layer 1 and 2. NICs are also not only capable of sending and receiving frames - their jobs are separated into two sublayers: Logical Link Control and Media Access Control. logical link control is responsible for communicating from the NIC with the operating sytem via device drivers, and media access control is responsible for creating, sending and receiving frames.
 as the internet keeps becoming larger and larger, the idea of using mac addresses to send and receive data on the internet becomes less promising - the idea of broadcasting a message for every computer to listen to in order to get their mac address would fill up speech, meaning no computer could talk anymore. instead of relying on macs alone, networks are chopped into sublayers: subnets, each following the network protocol, its rules and how data is sent and received over subnets in order to make vast communication more possible. the data that is moved between subnets is called a packet - and network protocols (available on every operating system) must know how to create a unique identifier for each device and how to work with packets, how to chop into different segments and how to get them over to different devices on each subnet.
-study 1 finished
-page 72/1402 network+
+
+finish page: 72
+finish time: 1800
+study session 1 finishes here
