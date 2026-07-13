@@ -1,6 +1,6 @@
-study session 7
-start time 1024
-continuing chapter 5 from page 223
+study session 7 starts here
+start page: 223
+start time: 1024
 
 as mentioned before in study session 5, chapter 5 describes how a physical network is laid out in a single floor of a building. however, it did not discuss how networks are laid out in an entire building. so far, we mentioned how solid core cables run through walls and roofs, but we didn't talk about how cabling runs through an entire building. we discussed the intermediate distribution frame (IDF) or the "telecommunications room" of a single floor, but didnt really discuss the MDF (main distribution frame).
 the standards that followed the cabling laws of a single floor, or the structured cabling standards, expand critical standards from a single floor, to multiple floors of a building, to an entire building, to interconnecting multiple buildings in an area to form a WAN (wide area network).
@@ -11,6 +11,6 @@ installing a network is very cost-inefficient and making a mistake by not instal
 and of course, the most demanding yet the most disliked job in networking, running cables through vertical and horizontal walls, arises as the main problem to networking. how cables are laid out in a building definitely changes how the network behaves. installing cables horizontally might be easier compared to the nightmarish duty of running verticals through rooftiles just to secure cables via cable trays and securing them and organizing them so they dont splash out as a bunch of cables in the middle of a roof. diagnosing cables in roofs is definitely a big duty.. and it comes with greater rewards. then comes installing cables through outlets - done typically by cutting through the drop area and aligning the position of the faceplate by using a placeholder in the hole. of course, the job of running cables is definitely the least parised even here in my notes, but still, godpseed, network installers!
 another important step in installing cabling properly is definitely laying out wall outlets and drops properly by typically connecting run cable wires to the proper ends of a crimp, by crimping or whatever. this goes into consideration because im sure newer wall outlet jacks wont require the hefty work of crimping each solid core wire to its coresponding color match. the cable running part is definitely something id never even look at while its happeneing.. god forbid. theres also the problems of patch panels, cable managements in patch panels and so on. installing a network consumes more time than i had thought.. its really one hell of an issue for itself. i guess the reward of sending cat photos to your co-worker in the same room with the network is worth it.
 
-study session 7 ends here.
+finish page: N/A
 finish time: 1146
-note to self: never install a network yourself
+study session 7 finishes here
