@@ -32,8 +32,6 @@ the description for source and destination ports is the same as above. the lengt
 so far, we've gone over the simplistic idea of what the TCP/IP protocols suite offers, and thus far we have only covered 3 major branches of the suite including IPv4, IPv6, and ICMP. actually, i can proudly say i personally ran a program to view how my network worked from the insides (a virtual network running two alpine linux machines and, my host, of course) and i noticed the program use the argument icmp, and i wondered what it meant. i guess i know it now.
 i kept this study session pretty short, because i have a really bad feeling that i have to read something multiple times to even understand it. we'll get to the rest of it soon, though! rest assured.
 
-study session 9 ends here
 finish page: 293
 finish time: 1447
-
-
+study session 9 finishes here
