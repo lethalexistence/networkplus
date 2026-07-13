@@ -1,4 +1,5 @@
-start: chapter 3, ethernet
+study session 4 starts here
+start page: 136
 start time: 0808
 
 this chapter goes over ethernet basics, starting with the terminology. due to the idea of not having to move data by physical demand, the idea of ethernet - the bus network topology running via a coax cable - became real, by xerox. later on, xerox, DIX and intel formed to make the idea more common and prominent in marketing and after some time, the idea was given to the IEEE standards for later on publicity of ethernet itself. then the working group of ethernet made its many sub-working groups, resulting in different generations of ethernet technology, ranging from the 3 million bits per second (3Mbps) to the 10Mbps updated coax version, to the TP cabling convention, to multimode fiber, and to singlemode fiber.
@@ -15,5 +16,7 @@ with the increase of a network's nodes, the collision domain increases - meaning
 however, the idea of switches is so prominent and common now and organizations might need more than one single switch in their network infrastructure, so they leap in towards the act of using multiple switches. this is done in two ways: older switches used uplink and crossover cables, while newer switches use autosense to automatically know switches are at play.
 1. uplink is used as a specific port on older switches. it is used to connect multiple swithces together.
 2. crossover is used by using one standard for one end of an 8P8C connector and another standard for another end of the cable. this causes a reverse in the sender and receiver wires on the cable, allowing for a connection to be made on the switch infrastructure. however, newer autosense-equipped switches can use normal TP cables. crossovers can also be used to connect two computers to eachother, but wireless connections (remember, mesh topology from yesterday!) are more common now.
-chapter 3 finished
+
+finish page: N/A
 finish time: 1632
+study session 4 finishes here
