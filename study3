@@ -1,7 +1,7 @@
-day 2
-study session 3
-starting at 0941
-page 101
+study session 3 starts here
+start page: 101
+starting time: 0941
+
 over the span of decades, computer network topologies have changed alot. from historic "ring" and "bus" topologies, to the nowadays more advanced hybrid and mesh. this chapter goes over the network topologies and the different kinds of caples and connection methods that were used for computers before.
 a topology is a diagram - a method to show how a thing works, like a model but instead with easier to understand explanations. for example, the "bus" topology contains the idea that every computer in a local network can be connected via a single cable running on a straight line, while the ring topology contains the idea of a circular cable running across every computer in a circular pattern to form a network. however no cable is truly straight or circular. it's just how topologies work.
 both bus and ring topologies interfered with eachother instead of working together, meaning porblems with these topologies were common. for example, a bus topology network would need "signal terminators" at each end of the cable to prevent a signal from one computer to reflect on itself, causing a network shutdown - or blow. in ring topologies, data flow was constant and there was no need for terminators, but computers faced the same issue on both topologies: data would flow freely in both topologies, which meant the network would kind of work like a hub rather than filtering data for the proper device correctly. if the bus topology didnt have terminators, a signal from one computer would reflect on another computer, and if the ring topology broke, the flow of data would simply stop.
@@ -30,8 +30,7 @@ from coaxials have merged the newer, more advanced cables called the twisted pai
 twisted pairs can also share speeds in terms of hertz - presenting how many bits can travel across a cable. a megahertz, or shown typically as Mhz, is a million bits. cables and their speeds range from 16Mhz depending on the category of the cable to 2000Mhz. categories are from cat 3 until cat 8 with variations in some other categories as well, such as cat 7, which also includes a cat 7a with more speed, meaning with a little bit of twisting and tweaking, a category can result in more bits traveled in a second.
 fiber optics is an entirely separate discussion and takes the now traditional ethernet twisted pair cable and casually removes the copper conductor in the middle and replaces it with a glass fiber, puts a cladder around it which has the duty of reflecting the light emitted by the fiber, and a signal amplifier goes around the cladder and finally the plastic jacket around all of this marvelous technology protects it against surrounding environmental disadvantages. the idea of EMI is completely dismissed for fiber optic because electromagnetic waves or even electric pulses are not responsible for carrying bits - instead, light does the job. there are also ranges of fiber optic cable sizes which are all for different jobs, but most importantly, the way light is emitted for data is important here. light can either be emitted from LEDs (light emitting diodes (tell me you knew that acronym and ill call you a nerd)) and from lasers. the light fibers in a fiber optic cable are responsible for sending and receiving data - however, there's typically only one fiber line; despite that, sender and receiver fibers are different but are rather duplex in a fiber viewed as one. there are hundreds of different connectors used for fiber optic cables, but the 4 important ones are ST, LC, MT-RJ, and SC. (no idea what any of those mean, dont wanna bother with it eiher.)
 since network cables work by transmitting bits - the fastest counting system available - to transmit data really quickly (as mentioned, a 10Mhz ethernet cable is responsible for sending data over at speeds of 10 million bits a second), they generate heat over time, which may cause fire hazards. this results in cable fire ratings - PVC, plenum and riser. the main fire hazard in network cables is not the fire they produce because theyre typically not flammable - the main issue is the fumes and gas which they produce. fire ratings in cables try their best to prevent that alone - while PVC doesnt prevent anything at all, plenum has more safety against said fumes. riser is also intended for specific building architectures and network layouts.
-study session 3 finished
-chapter 2 finished
-page 135
 
-
+finish page: 135
+finish time: N/A
+study session 3 finishes here
