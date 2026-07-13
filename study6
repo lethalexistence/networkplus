@@ -1,5 +1,6 @@
+study session 6 starts here
+start page: 192
 start time: 1110
-chapter 5 begin
 
 this chapter, chapter 5, seems to go over some of the physical limitations of a network topology and how it lays out in buildings. when a network topology is laid out, there are multiple problems regarding how cables are laid out, how NICs seem to look to other people, and how everything should be laid out to withstand the temptations of the normies who cant cook up magic networks.
 to design a proper network in a building, the most fundamental issue is with how cables are laid out across something like walls or different floors. different bodies of organizations like the TIA or the EIA have come up with different standards across the united states to agreements and standards regarding how such cables are laid out, while bodies in the EU have also adopted some of these standards and used them themselves in their own standards. this chapter doesnt turn someone into a network designer - rather, it gives info needed to know how a system can be possibly laid out, making it a valuable chapter, atleast in my opinion. the simplest kind of network anybody could probably make up would be the star-bus network - some computers, a switch (not with 48 ports, maybe with 5 or 6), and some computer systems. the switch can rest easily on a table where the laptops are located, some UTP cables can be used to connect the computers and other stuff to the switch, and finally, something as simple and as flawless of a network is made up until the point where someone trips over some wires on the ground or some change has to be made to the network, causing issues. if, as mentioned, a cable such as the humble UTP is used, EMI can be very effective, causing network interference from other devices located in the same area. even though the network can be refied with STP cabling, a budget might be a limiting factor - hence the standards to lay out a proper network with certain standards.
@@ -18,4 +19,6 @@ a very fundamental (atleast in my opinion) part of racks is patching cables and 
 the last part of a computer to connect to a network is via the work area, where computers, telephones or printers are connected. in this stage, wall outlets with RJ-45 jacks are placed for somebody to use. most importantly, these wall outlets also have categories and they should match with the entire category of the network itself - else, this is all a wasted cause. imagine setting up a network, finely tuning cable walls and everything just to end everything with mismatching wall outlets. i'd call that an epic failure.
 the following sections of the chapter follow on how networks work in multi-floor buildings. i started from page 195 of the book and ended the session at page 222. funny you should know, the chapter goes till page 285.. big challenge.
 
-study session 6 finishes here.
+finish page: 222
+finish time: N/A
+study session 6 finishes here
