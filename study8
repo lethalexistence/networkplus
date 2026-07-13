@@ -31,6 +31,7 @@ switches also enable use of multiple NICs on one system, a term called bonding o
 one of the biggest helpers in network diagnosis in NICs is the LEDs used on the NICs. some NICs have different numbers of lights, but the most fundamental one is the link light, used for diagnosing if the node is even connected to the network or not. there are also other lights such as connectivity lights or speed lights. each NIC manufacturer uses its own standards and rules to define how lights work for it, but overall, the lights used typically inform the troubleshooter of the same thing. some link indicators even display multi-speed lights showing how different network speeds might not interconnect with eachother on the same network.
 the rest of the chapter goes over troubleshooting the network for its issues. id prefer to keep this entire section as limited as possible, because honestly the troubleshooting methods mentioned are not too complex or hard to understand. what i did love, though, was the idea of UTP coupler connectors being used for UTP cable length limit extensions. i guess i got my answer for my question in the previous study session note.. and of course, in the telecoms room, it is important to make sure that the diagnostics are kept in an orderly fashion, and things like voltage recorders, UPSs and their different kinds to buy and so on are important, not to mention humidity trackers which are tasked with checking air humidity in a telecoms room and reporting them.
 out of the 10 tests on chapter 5's ending page, i answered all of them correctly. chapter 5 is officially over.
-study note 8 ends here
+
 finish time: 1037
 finish page: 285
+study note 8 finishes here
