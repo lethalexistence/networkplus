@@ -1,3 +1,7 @@
+study session 2 starts here
+start time: N/A
+start page: 72
+
 mac addresses are a physical universally random number which are assigned in manufacturer companies by burning the number into a ROM located on the chips of the NICs themselves. however, in order for subnets to communicate with eachother, a suite of network protocols play a role in this (TCP/IP). TCP, also known as transmission control protocol and IP also known as internet protocol are both fundamental protocols designed for layer 3 - the network protocol. in this layer, packages called packets are made to go from one network to another. this is done by giving each device a logically unique identifier (in contrast to the physical identifier in mac) and sending packets using that identifier for lossless communication.
 in layer 3, the "magic box" that connects subnets to one another is a router - a small device intended to make communication possible across networks. also, since communication is done via IP addresses instead of the typical MAC solution, network communication uses packets which means different frame kinds on local networks isnt an issue anymore, and any kind of device - wireless or wired, VoIP or ethernet, can communicate with eachother.
 in an IP packet, the container contains the data, the sender and the receiver IP addresses. however, apparently a packet can contain more information (not shown in this chapter.) technically, for a packet to reach into the lower layer via cabling, it needs to be enclosed in a frame again, meaning the packet is enclosed in another canister which makes up a frame that makes its way to the cables, but the packet is still there - just enclosed in another "envelope". in order for a packet to reach its way somewhere else on a network as big as the internet, each packet needs to go through many more routers to reach its destination. to do this, every packet is encapsulated in a frame to be sent to another router via cables, the next router decapsulates the frame and gets the packet, and then re-capsulates the packet unto another frame, sending it over to another router.
@@ -12,6 +16,8 @@ however, if lucky enough, a segment may contain UDP information - a lossy kind o
 for a network to ensure connections are made simultaneously, this job is done software-wise via the 5th layer, the session layer, where a system receives or sends checks to make sure that it is ready to receive or send information. this is solely the job of layer 5.
 layer 6, also known as the presentation layer, is responsible for translating between the application layer to the transport layer or lower layers, or translating received information from a lower layer to the application layer. some protocols responsible for initiating at layer 5 may also end up working in layer 6, which may raise confusion.
 layer 7 refers to the code which is responsible for making applications network-aware. for example, APIs - application programming interfaces are used in order to further increase or enhance an application's capabilities for communication over a network. APIs are basically sets of standard code responsible for doing so.
-study session 2 finished
-studied till page 100
+
+finish page: 100
+finish time: N/A
+study session 2 finishes here
 
