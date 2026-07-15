@@ -15,9 +15,11 @@ The notes are written as plain text files in Vim, and I recommend you clone this
 
 ## Study Sources
 **A. Mike Meyers: CompTIA Network+ Exam Guide**
+<br>
 I used a PDF version of the `CompTIA Network+ Exam Guide` myself across this entire study. The book itself contains about 1200 pages give or take, and the material is dense; however, the author of the book tends to follow a very crucial pattern of teaching that takes you from the early concepts of networking such as *ancient topologies*, *wiring standards and cabling standards* and is definitely very broad over the *TCP/IP protocol suite* sections, where chapter 6, `TCP/IP Protocol Suite` extends to somewhere between 80 pages. [The TotalSeminars Website](https://totalsem.com/008) offers a hands-on set of tests and quizes which you can take. Some of these tests are free, while some of them require additional purchases. If you pay for the book, you will definitely get these tests for free.
 <br>
 **B. Professor Messer**
+<br>
 known as Professor Messer on YouTube, he hosts one of the most widely known and popularized, free courses for Network+. I didn't take his course myself, but for some parts of the concepts I could not really understand well from the book, his videos offered visual guides and perfectly linear and understandable explanations. You can find the latest version of the course [here](https://youtu.be/k7IOn3TiUc8?si=cCTkLC4nI-gBdcnp).
 <br>
 **C. PowerCert Animated Videos**
